@@ -5,3 +5,4 @@ Segmentation CNN - https://deepsense.io/deep-learning-for-satellite-imagery-via-
 
 RNN info - https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b
 
+AI Kaggle like - https://www.crowdai.org/
