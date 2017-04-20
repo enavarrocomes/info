@@ -8,3 +8,5 @@ RNN info - https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-1030010
 AI Kaggle like - https://www.crowdai.org/
 
 Lung cancer prediction - https://eliasvansteenkiste.github.io/machine%20learning/lung-cancer-pred/
+
+Summer school conclusions - http://www.marekrei.com/blog/26-things-i-learned-in-the-deep-learning-summer-school/
